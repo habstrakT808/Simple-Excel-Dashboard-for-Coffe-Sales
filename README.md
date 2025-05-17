@@ -44,7 +44,7 @@ Berikut adalah file dan sheet utama:
 1. **Clone Repo & Download Files**
    ```sh
    
-   git clone https://github.com/username/coffee-sales-analytics.git
+   git clone https://github.com/habstrakT808/Simple-Excel-Dashboard-for-Coffe-Sales.git
 
 2. **Buka file:**
 
